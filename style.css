@@ -72,3 +72,6 @@ th:nth-child(3), td:nth-child(3) {  width: 125px; }
 tfoot p {
   margin: 0;
 }
+.rev {
+  text-decoration: line-through;
+}
